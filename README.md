@@ -6,3 +6,7 @@ npm create vite@latest
 
 cd Frontend
 npm install
+
+# cách cài bootstrap
+
+npm install bootstrap
